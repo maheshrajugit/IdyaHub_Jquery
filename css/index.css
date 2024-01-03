@@ -1,0 +1,20 @@
+body,html {
+    margin:0;
+    padding: 1.5rem;
+}
+
+.welcome-text h1{
+    font-family:sans-serif;
+    font-size: 1rem;
+    color: blue;
+    font-weight: bold;
+}
+
+table{
+    width:50%;
+    border: 1px solid #000000;
+}
+
+tr th, tr td {
+    border: 1px solid #000000;
+}
